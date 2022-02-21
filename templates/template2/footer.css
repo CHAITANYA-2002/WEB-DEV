@@ -1,0 +1,26 @@
+.main-footer {
+    color: rgb(255, 255, 255);
+    background-color: rgb(23, 24, 32);
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+}
+
+.heading {
+    text-decoration: underline;
+    font-size: 20px;
+    display: flex;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.list-unstyled {
+    text-align: left;
+    font-size: 10px;
+}
+
+.row {
+    font-size: 10px;
+}
